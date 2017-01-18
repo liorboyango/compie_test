@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">compie_test</string>
+
+    <string name="no_youtube_title">Youtube חסר</string>
+    <string name="no_youtube_message">אפליקציית Youtube חסרה או לא מעודכנת, אנא התקן או עדכן אותה.</string>
+    <string name="install_now">התקן</string>
+    <string name="exit">יציאה</string>
+</resources>

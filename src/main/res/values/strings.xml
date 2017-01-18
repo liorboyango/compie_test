@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">compie_test</string>
+
+    <string name="no_youtube_title">Youtube missing</string>
+    <string name="no_youtube_message">Youtube app is missing or outdated, please install or update the app.</string>
+    <string name="install_now">Install</string>
+    <string name="exit">Exit</string>
+</resources>
